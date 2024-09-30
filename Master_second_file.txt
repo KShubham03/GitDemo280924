@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-I am Shubham and some changes has been made on this partciular file.
-=======
 This file is edited remotely by accenture team.
->>>>>>> 0641e09e86bba93dc32a3ef26f1b051a8ca8a420
+This code change was done in local repo.
+I am Shubham and some changes has been made on this partciular file.
+
+
+
