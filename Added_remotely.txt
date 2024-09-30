@@ -1,1 +1,2 @@
 This file was added remotely to the remote repo today itself only.
+This line was added to create conflict with the local/master branch.
